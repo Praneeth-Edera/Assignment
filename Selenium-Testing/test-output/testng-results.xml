@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62574" started-at="2020-03-29T17:26:41Z" finished-at="2020-03-29T17:27:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62574" started-at="2020-03-29T17:26:41Z" finished-at="2020-03-29T17:27:44Z">
+      <class name="com.example.demo.tdd.LoginUITest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:com.example.demo.tdd.LoginUITest@28feb3fa]" name="initDriver" is-config="true" duration-ms="13" started-at="2020-03-29T22:56:41Z" finished-at="2020-03-29T22:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.example.demo.tdd.LoginUITest@28feb3fa]" name="launchBrowser" is-config="true" duration-ms="30316" started-at="2020-03-29T22:56:41Z" finished-at="2020-03-29T22:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Myaccount()[pri:0, instance:com.example.demo.tdd.LoginUITest@28feb3fa]" name="Myaccount" duration-ms="25794" started-at="2020-03-29T22:57:12Z" finished-at="2020-03-29T22:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Myaccount -->
+        <test-method status="PASS" signature="testcases()[pri:0, instance:com.example.demo.tdd.LoginUITest@28feb3fa]" name="testcases" duration-ms="6416" started-at="2020-03-29T22:57:38Z" finished-at="2020-03-29T22:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases -->
+      </class> <!-- com.example.demo.tdd.LoginUITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
